@@ -1,3 +1,3 @@
 # InstagramMockup
-Just testing my skill
-###still learning.
+## Just testing my skill,
+### still learning.
